@@ -1,2 +1,2 @@
 # Java-Projects
-Various projects made in java 
+Various projects written in java by Seulmin Ryu 
